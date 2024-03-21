@@ -1,11 +1,12 @@
 # learning_sql
 Practice using SQL to analyse/extract data from databases. (https://cs50.harvard.edu/x/2021/psets/7/#)
+Not all the relevant files are committed here, just those most interesting.
 
-## Fiftyville
+## [Fiftyville](./fiftyville/README.md)
 Databases including bank accounts, phone numbers, phone records etc, were provided, as were witness statements to a fake theft. 
 log.sql contains the code used to join databases and search to find the culprit, their current location, and their accomplice.
 
-## Movies
+## [Movies](./movies/README.md)
 This task was as follows
 In 11.sql, write a SQL query to list the titles of the five highest rated movies (in order) that Chadwick Boseman starred in, starting with the highest rated.
 Your query should output a table with a single column for the title of each movie.
